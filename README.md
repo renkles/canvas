@@ -1,8 +1,8 @@
-# vue-fullpage
-  [vue-fullpage模版预览](https://renkles.github.io/template/dist/index.html)
+# canvas绘制星空(vue)
+  [预览](https://renkles.github.io/template/dist/index.html)
 
 ## images
-   <img src="./public/images/demo_1.jpg" width="762" height="328" /> <img src="./public/images/demo_2.jpg" width="762" height="500" />
+   <img src="./show/images/code.png" width="766" height="200" />
 
 ## Project setup
 ```

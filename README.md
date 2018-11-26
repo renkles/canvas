@@ -1,5 +1,5 @@
 # canvas绘制星空(vue)
-  [预览](https://renkles.github.io/template/dist/index.html)
+  [预览](https://renkles.github.io/canvas/show/index.html)
 
 ## images
    <img src="./show/images/code.png" width="766" height="200" />
